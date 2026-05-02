@@ -10,7 +10,7 @@ $resume = isset($_SESSION['resume']) ? $_SESSION['resume'] : [];
   <title>ResumeForge – Build Your Resume</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
+ <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <!-- Header -->
